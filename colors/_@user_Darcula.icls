@@ -3,26 +3,38 @@
     <property name="created">2018-11-29T12:11:57</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-03T16:58:09</property>
+    <property name="modified">2018-12-04T09:07:38</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="c3e88d" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="616161" />
-    <option name="FILESTATUS_SWITCHED" value="c792ea" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="FILESTATUS_ADDED" value="62cc47" />
+    <option name="FILESTATUS_COPIED" value="62cc47" />
+    <option name="FILESTATUS_DELETED" value="ed864a" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ed864a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a9b837" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6666" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6666" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6666" />
+    <option name="FILESTATUS_MERGED" value="ed94ff" />
+    <option name="FILESTATUS_MODIFIED" value="4ff0ff" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4ff0ff" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4ff0ff" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_RENAMED" value="4ff0ff" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_addedOutside" value="62cc47" />
+    <option name="FILESTATUS_changelistConflict" value="ff6666" />
+    <option name="FILESTATUS_modifiedOutside" value="4ff0ff" />
   </colors>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="141414" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
