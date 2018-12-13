@@ -4,7 +4,7 @@
     <property name="created">2018-12-03T09:45:59</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-13T09:30:41</property>
+    <property name="modified">2018-12-13T10:27:49</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -12,6 +12,7 @@
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8f9d6a" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -313,6 +314,12 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7eaef1" />
+        <option name="BACKGROUND" value="141414" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
