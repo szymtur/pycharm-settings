@@ -4,7 +4,7 @@
     <property name="created">2018-12-03T09:45:59</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-13T10:27:49</property>
+    <property name="modified">2018-12-13T10:30:17</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -363,6 +363,7 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f8f8f0" />
+        <option name="BACKGROUND" value="141414" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -1104,6 +1105,12 @@
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="9b859d" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="299999" />
+        <option name="BACKGROUND" value="141414" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
