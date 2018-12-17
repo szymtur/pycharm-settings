@@ -4,7 +4,7 @@
     <property name="created">2018-12-03T09:45:59</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-13T10:30:17</property>
+    <property name="modified">2018-12-17T14:41:38</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -65,7 +65,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="cf6a4c" />
-    <option name="WHITESPACES" value="2b2e39" />
+    <option name="WHITESPACES" value="ffffff" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5f5a60" />
   </colors>
   <attributes>
