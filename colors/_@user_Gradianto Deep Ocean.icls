@@ -3,7 +3,7 @@
     <property name="created">2020-01-14T12:04:33</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-14T12:13:44</property>
+    <property name="modified">2020-01-14T12:46:37</property>
     <property name="originalScheme">Gradianto Deep Ocean</property>
   </metaInfo>
   <colors>
@@ -12,21 +12,21 @@
     <option name="DOCUMENTATION_COLOR" value="26354d" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="14294a" />
     <option name="GUTTER_BACKGROUND" value="212121" />
-    <option name="INDENT_GUIDE" value="293555" />
+    <option name="INDENT_GUIDE" value="43474a" />
     <option name="INFORMATION_HINT" value="323d4d" />
     <option name="LINE_NUMBERS_COLOR" value="8d9296" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="bebdbd" />
     <option name="NOTIFICATION_BACKGROUND" value="d3d70" />
     <option name="RECENT_LOCATIONS_SELECTION" value="303f4d" />
-    <option name="RIGHT_MARGIN_COLOR" value="36446e" />
-    <option name="SELECTED_INDENT_GUIDE" value="475b91" />
+    <option name="RIGHT_MARGIN_COLOR" value="43474a" />
+    <option name="SELECTED_INDENT_GUIDE" value="43474a" />
     <option name="SELECTED_TEARLINE_COLOR" value="4d619c" />
     <option name="SELECTION_BACKGROUND" value="28509e" />
     <option name="SEPARATOR_BELOW_COLOR" value="37393c" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="1f283eb2" />
     <option name="ScrollBar.Mac.thumbColor" value="20294094" />
     <option name="TEARLINE_COLOR" value="415284" />
-    <option name="VISUAL_INDENT_GUIDE" value="415385" />
+    <option name="VISUAL_INDENT_GUIDE" value="43474a" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
