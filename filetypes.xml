@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="otl" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore-global" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="pyc" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
