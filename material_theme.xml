@@ -1,0 +1,17 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="indicatorStyle" value="None" />
+    <option name="highlightThickness" value="1" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="18" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-4e2d4c0:1719738acbf:-8000" />
+    <option name="version" value="5.2.0" />
+  </component>
+</application>
